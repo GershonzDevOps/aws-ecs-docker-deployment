@@ -91,6 +91,19 @@ http://localhost:8080
 
 ---
 
+## Project Screenshots
+
+### ECS Running Task
+![ECS Task](screenshots/ecs-running-task.png)
+
+### Amazon ECR Repository
+![ECR Repository](screenshots/ecr-repository.png)
+
+### Project Files
+![Project Files](screenshots/project-files.png)
+
+---
+
 ## Author
 
 Gershon Zormelo  
